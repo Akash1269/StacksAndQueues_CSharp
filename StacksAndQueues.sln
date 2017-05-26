@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksUsingArrays", "StacksUsingArrays\StacksUsingArrays.csproj", "{A98D1729-3ED2-4B6E-88EB-D26C0E49AEDC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingArrays", "QueueUsingArrays\QueueUsingArrays.csproj", "{88882A6C-E96D-4623-932D-829FE40EFE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksUsingLinkedList", "StacksUsingLinkedList\StacksUsingLinkedList.csproj", "{B2628E3C-902C-4790-8CA0-0467FA265B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingLinkedList", "QueueUsingLinkedList\QueueUsingLinkedList.csproj", "{C2B1B87D-5DEA-47CE-998F-655523C5DC0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{88882A6C-E96D-4623-932D-829FE40EFE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88882A6C-E96D-4623-932D-829FE40EFE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88882A6C-E96D-4623-932D-829FE40EFE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2628E3C-902C-4790-8CA0-0467FA265B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2628E3C-902C-4790-8CA0-0467FA265B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2628E3C-902C-4790-8CA0-0467FA265B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2628E3C-902C-4790-8CA0-0467FA265B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B1B87D-5DEA-47CE-998F-655523C5DC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B1B87D-5DEA-47CE-998F-655523C5DC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B1B87D-5DEA-47CE-998F-655523C5DC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B1B87D-5DEA-47CE-998F-655523C5DC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
